@@ -1,5 +1,5 @@
 def get_greetings():
-    greetings = 'Hello'
+    greetings = 'Hello '
     greetings = update_greetings(greetings)
     return greetings + '!'
 
